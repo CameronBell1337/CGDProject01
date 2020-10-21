@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\jacob\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\jacob\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_SUPERHOT2600.-604818503.00" t="ExcludeRecursive" />
+    <e p="C:\Users\jacob\Documents\gameEngineProjects\Unity Projects\CGD\project1\CGDProject01\SUPERHOT2600" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="enemy" t="Include">
+          <e p="enemyBehaviour.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="SUPERHOT2600.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
